@@ -34,7 +34,7 @@ that discourage, exhaust, or otherwise negatively affect other participants.
   * [Release keys](#release-keys)
 * [License](#license)
 
-## Support
+## Support by sumanyu
 
 Looking for help? Check out the
 [instructions for getting support](.github/SUPPORT.md).
